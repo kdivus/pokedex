@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: quicksand;
+    font-family: 'Poppins', sans-serif;
     font-weight: bolder;
 }
 
@@ -53,6 +53,7 @@ h1 {
 .card-subtitle {
     margin-top: 5px;
     text-align: center;
+    font-weight: lighter;
 }
 
 .card-image {
